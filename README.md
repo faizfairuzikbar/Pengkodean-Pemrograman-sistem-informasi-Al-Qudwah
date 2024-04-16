@@ -22,9 +22,12 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 
 ## Screenshots
 
-![Login](blob:https://web.whatsapp.com/f2a1faff-05d6-42e7-b429-e1476ad81194)
+![Login](![Screenshot 2024-04-16 223459](![Screenshot 2024-04-16 223333](https://github.com/faizfairuzikbar/faiz-fairuz-ikbar/assets/167222911/620f0a73-992d-4480-84de-d0bb8d08615a)
 
-![Dashboard](![image](https://github.com/faizfairuzikbar/faiz-fairuz-ikbar/assets/167222911/e3ccbad4-4a9e-48b3-bdbc-66c135aab39e)
+)
+
+![Dashboard](![Screenshot 2024-04-16 223459](https://github.com/faizfairuzikbar/faiz-fairuz-ikbar/assets/167222911/a0b88252-4c05-411d-8cc9-df27957743d5)
+
 )
 
 
