@@ -26,6 +26,9 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 
 )
 
+![ERD](<img width="731" alt="image" src="https://github.com/faizfairuzikbar/Pengkodean-Pemrograman-sistem-informasi-Al-Qudwah/assets/167222911/01db4647-2eb8-4647-b4d8-0f086db1f2ae">
+
+)
 
 ## Instalasi
 
