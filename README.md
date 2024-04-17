@@ -15,6 +15,13 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 - CRUD Tugas & Jawaban
 - CRUD Jadwal Sekolah
 
+Tugas UTS Pengkodean & Pemrograman
+Nama : Faiz Fairuz Ikbar
+nim : 12030122140250
+Kelas : F
+
+sistem clone dari 
+(https://github.com/lacsapadnan/Sistem-Informasi-Sekolah)
 
 ## Screenshots
 
@@ -23,6 +30,31 @@ Sistem informasi sekolah berbasis laravel 8 dengan template dashboard
 )
 
 ![Dashboard](![Screenshot 2024-04-16 223459](https://github.com/faizfairuzikbar/faiz-fairuz-ikbar/assets/167222911/a0b88252-4c05-411d-8cc9-df27957743d5)
+
+)
+
+![Jurusan](<img width="445" alt="image" src="https://github.com/faizfairuzikbar/Pengkodean-Pemrograman-sistem-informasi-Al-Qudwah/assets/167222911/f92a6478-d44f-47f3-9daa-86a5d8c5e57e">
+
+)
+
+![Mata Pelajaran](<img width="458" alt="image" src="https://github.com/faizfairuzikbar/Pengkodean-Pemrograman-sistem-informasi-Al-Qudwah/assets/167222911/0bb37727-d759-46e0-a1fc-7d67ba07d4d7">
+
+)
+
+![Tampilan Guru](![Screenshot 2024-04-17 093432](https://github.com/faizfairuzikbar/Pengkodean-Pemrograman-sistem-informasi-Al-Qudwah/assets/167222911/577a3af8-1894-409e-9ec4-3fe7d7f96beb)
+
+)
+
+![Tampilan Kelas](<img width="430" alt="image" src="https://github.com/faizfairuzikbar/Pengkodean-Pemrograman-sistem-informasi-Al-Qudwah/assets/167222911/af1724c8-189d-425d-99e2-9b04587c5bb2">
+
+)
+
+![Tampilan Siswa](<img width="424" alt="image" src="https://github.com/faizfairuzikbar/Pengkodean-Pemrograman-sistem-informasi-Al-Qudwah/assets/167222911/923591e6-27c2-42ad-9771-c0f6ef264b1a">
+
+)
+
+![Tampilan Admin/User](<img width="431" alt="image" src="https://github.com/faizfairuzikbar/Pengkodean-Pemrograman-sistem-informasi-Al-Qudwah/assets/167222911/9342849e-306f-4e96-a698-cf334acf7edf">
+
 
 )
 
